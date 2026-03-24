@@ -18,7 +18,7 @@ Currently open to international opportunities where I can tackle complex technic
 * Developed a C program to process real-time data from a servo motor and calculate required power output.
 * Trained a neural network to optimize motor speed maintenance and deployed the trained model directly to an Arduino.
 * **Technologies:** C, Arduino, Neural Networks, Embedded Systems.
-* [Link to Repository Currently hidden as I'm working on developing the project]
+
 
 
 
