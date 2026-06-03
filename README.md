@@ -29,7 +29,7 @@ Currently open to international opportunities where I can tackle complex technic
 ### 📫 Let's Connect
 * **LinkedIn:** [www.linkedin.com/in/yuosef-abd-alrahman-9a4b31347]
 * **Email:** [yousef.abdulrahmann.1995@gmail.com]
-* **Twitter-X:** [https://x.com/joseph_yuosef?t=0vP7ngf0uD_yoleYwgnrzA&s=09]
+* **Twitter-X:** 
 * **tiktok:** [https://www.tiktok.com/@yousef_abdulrahmann?is_from_webapp=1&sender_device=pc]
 * **Youtube:** [https://www.youtube.com/@THE-PURE-MAN]
 * **Discord:** [https://discord.gg/mmUaNyrJ]
