@@ -11,28 +11,12 @@ Currently open to international opportunities where I can tackle complex technic
 * **Machine Learning:** Neural Networks, TinyML, Data Modeling
 * **Tools:** Git, Linux, CMake
 
-### 🚀 My Projects
-
-#### [Neural-Servo-Controller]
-*A machine learning model deployed on embedded hardware to intelligently control servo motors.*
-* Developed a C program to process real-time data from a servo motor and calculate required power output.
-* Trained a neural network to optimize motor speed maintenance and deployed the trained model directly to an Arduino.
-* **Technologies:** C, Arduino, Neural Networks, Embedded Systems.
-
-
-
-
-### 🌱 Currently Exploring
-* Optimizing machine learning models for resource-constrained environments.
-* Advanced memory management techniques in C.
 
 ### 📫 Let's Connect
 * **LinkedIn:** [www.linkedin.com/in/yuosef-abd-alrahman-9a4b31347]
 * **Email:** [yousef.abdulrahmann.1995@gmail.com]
-* **Twitter-X:** 
-* **tiktok:** [https://www.tiktok.com/@yousef_abdulrahmann?is_from_webapp=1&sender_device=pc]
 * **Youtube:** [https://www.youtube.com/@THE-PURE-MAN]
-* **Discord:** [https://discord.gg/mmUaNyrJ]
+* **Discord:** [https://discord.gg/gcmdahnZuG]
 
 
 ---
